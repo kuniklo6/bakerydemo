@@ -12,6 +12,7 @@
 .~*
 common/CACHE
 bakerydemo/settings/local.py
+bakerydemo/settings/base.py
 bakerydemodb
 node_modules
 venv
